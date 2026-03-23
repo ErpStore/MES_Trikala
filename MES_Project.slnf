@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "MES.Presentation.UI\\Trikala.MES.sln",
+    "projects": [
+      "..\\MES.ApplicationLayer\\MES.ApplicationLayer.csproj",
+      "..\\MES.Domain\\MES.Domain.csproj",
+      "..\\MES.Infrastructure\\MES.Infrastructure.csproj",
+      "MES.Presentation.UI.csproj"
+    ]
+  }
+}

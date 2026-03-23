@@ -6,7 +6,7 @@ namespace MES.Domain.Entities
     [Table("Users")] // Defines the SQL Table Name
     public class User
     {
-        [Key] // Primary Key
+        [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
